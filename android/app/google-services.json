@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597548116624",
+    "project_id": "cognitivecare26",
+    "storage_bucket": "cognitivecare26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597548116624:android:91f6ae82269e7474854615",
+        "android_client_info": {
+          "package_name": "com.sih.cognitivecare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzS3ZDhvsh4PP4dh_AicOWaGaINsxC7tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
